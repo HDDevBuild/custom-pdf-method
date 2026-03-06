@@ -2,6 +2,6 @@
     "name": "WKHTMLTOPDF Single Worker Fix",
     "version": "1.0",
     "summary": "",
-    "depends": ["base"],
+    "depends": ["base", "web"],
     "installable": True,
 }
